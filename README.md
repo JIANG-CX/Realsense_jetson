@@ -8,7 +8,7 @@ The realsense sdk and realsense-ros1 installation in jetson platform
 #wget https://github.com/IntelRealSense/librealsense/archive/master.zip
 #unzip ./master.zip -d .
 #cd ./librealsense-master
-cd /home/dji/Downloads/librealsense-2.50.0
+cd /home/dji/Downloads/librealsense-2.50.0 # root of 2.50.0
 ```
 3. install the sdk (only the Building from Source using RSUSB Backend can work for jetpack 5)
 ```
